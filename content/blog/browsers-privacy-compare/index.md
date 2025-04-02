@@ -40,9 +40,9 @@ This is a tracking technique that collects information about the user's browser 
 - **Brave** enables fingerprinting protection by default. You see the pattern here - privacy-first approach. It can be turned off Settings > Shields. Its protection approach ("privacy through randomization") is considered quite strong among mainstream browsers.
 
 {{< carousel id="carousel-3x2" ratio="3x2" class="col-sm-12 col-lg-8 mx-auto" >}}
-  {{< img src="img/scr-chrome-fingerprint.png" caption="Chrome Fingerprinting" >}}
-  {{< img src="img/scr-firefox-fingerprint.png" caption="Firefox Fingerprinting" >}}
-  {{< img src="img/scr-brave-fingerprint.png" caption="Brave Fingerprinting" >}}
+  {{< img src="./scr-brave-fingerprint.png" caption="Chrome Fingerprinting" >}}
+  {{< img src="./scr-chrome-fingerprint.png" caption="Firefox Fingerprinting" >}}
+  {{< img src="./scr-firefox-fingerprint.png" caption="Brave Fingerprinting" >}}
 {{< /carousel >}}
 
 In addition to these factors, we need to consider a few things that are not directly related to privacy, but impact the design choices made by the browser vendors and hence are critical for our decision.
