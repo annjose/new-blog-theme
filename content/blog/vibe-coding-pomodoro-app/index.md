@@ -19,15 +19,15 @@ Instead of typing code, I mostly just talked to an LLM through an AI coding assi
 
 Here are a few examples:
 > *create a pomodoro timer page with three modes - focus, short break, long break. I want it to have multiple themes the user can choose. There should be a way to start and stop the timer*
-
+>
 > *make the timer duration to be configurable by the user*
-
+>
 > *when the focus time is over, can you do something to alert the user that it is time for a short break*
 
 After each change, I'd check if it was implemented correctly and if it looked good in the app. I'd review the code to see if there are any mistakes. If I want something to change, I'd just tell Copilot to fix - no typing needed. Here are a few examples:
 
 > *change the layout and colors to make it more creative and vibrant*
-
+>
 > *update the theme colors to improve color contrast*
 
 ## The Final Result
