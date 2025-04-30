@@ -121,7 +121,7 @@
     themeOpacity = "10"
     darkModeShade = "20%"
     darkModeTint = "40%"
-    themeFont = "Inter"
+    themeFont = "Open Sans"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
     fontSizeBase = "1rem"
