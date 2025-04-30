@@ -1,9 +1,9 @@
-title = "Hinode"
-copyright = "Copyright © 2022 - 2025 Mark Dumay."
+title = "Reflections"
+copyright = "Copyright © 2022 - 2025 Ann Catherine Jose."
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://annjose.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true

@@ -1,7 +1,7 @@
 {
-  "name": "@gethinode/template",
+  "name": "annjose-blog",
   "version": "0.15.0",
-  "description": "Hinode is a clean blog theme for Hugo, an open-source static site generator",
+  "description": "An open space where Ann Catherine Jose explores technology and shares her learnings",
   "main": "index.js",
   "scripts": {
     "prestart": "npm run -s mod:vendor",
