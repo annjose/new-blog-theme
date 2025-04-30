@@ -37,20 +37,20 @@
   pageRef = "/blog/"
   weight = 10
 
-[[sample]]
-  name = "Projects"
-  pageRef = "/projects/"
-  weight = 20
+# [[sample]]
+#   name = "Projects"
+#   pageRef = "/projects/"
+#   weight = 20
 
-[[sample]]
-  name = "Sample project"
-  pageRef = "/projects/sample-project/"
-  parent = "Projects"
-  weight = 1
+# [[sample]]
+#   name = "Sample project"
+#   pageRef = "/projects/sample-project/"
+#   parent = "Projects"
+#   weight = 1
 
-[[sample]]
-  name = "Another project"
-  pageRef = "/projects/another-project/"
-  parent = "Projects"
-  weight = 2
+# [[sample]]
+#   name = "Another project"
+#   pageRef = "/projects/another-project/"
+#   parent = "Projects"
+#   weight = 2
 # toml-docs-end sample-navigation
