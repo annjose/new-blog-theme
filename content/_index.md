@@ -1,16 +1,11 @@
 ---
-title: Welcome to Hinode!
-description: A clean documentation and blog theme for your Hugo site based on Bootstrap 5.
+title: Reflections
+description: An open space where Ann Catherine Jose explores technology and shares her learnings
 thumbnail:
-    url: /img/sunrise.jpg
+    url: /img/yosemite-meadow.jpg
     author: Harris Vo
     authorURL: https://unsplash.com/@hoanvokim
     origin: https://unsplash.com/photos/ZX6BPboJrYk
     originName: Unsplash
-actions:
-  get-started:
-    url: "https://gethinode.com/docs"
-    title: "Get started"
-    icon: "fas book-open"
 ---
 This is my first site created with Hinode.
