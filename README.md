@@ -3,7 +3,7 @@ An open space where Ann Catherine Jose explores technology and shares her learni
 
 Built on Hugo and uses the Hinode theme.
 
-# Resources
+## Resources
 <!-- MARKDOWN LINKS -->
 [docs]: https://gethinode.com/docs
 [git_download]: https://git-scm.com
