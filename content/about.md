@@ -38,7 +38,7 @@ Personally, I strive to embody the principle of "Be the Change You Want to See" 
 
 As a leader, I've always aimed to foster an environment where teams feel empowered to innovate and grow. My leadership style is to be direct, kind and firm, with an emphasis on empathy and empowerment.
 
-###  Connect With Me
+### Connect With Me
 I'm always excited to engage with fellow tech enthusiasts, collaborate on interesting projects, participate in hackathons, or discuss the latest in technology.
 
 You can find me sharing insights and engaging in tech discussions on various platforms:
