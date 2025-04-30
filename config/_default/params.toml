@@ -92,7 +92,7 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#d43900"
+    primary = "#9802d2"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
