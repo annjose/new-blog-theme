@@ -1,9 +1,9 @@
 @if $enable-dark-mode {
   @include color-mode(dark) {
-    --bs-primary: #{$primary-text-emphasis-dark};
+    --bs-primary: #{lighten($primary, 20%)};
     --bs-secondary: #{$secondary-text-emphasis-dark};
-    --bs-primary-dark: #{$primary-bg-subtle-dark};
-    --bs-primary-bg-subtle: #{$primary-bg-subtle-dark};
+    --bs-primary-dark: #{lighten($primary, 35%)};
+    --bs-primary-bg-subtle: #{rgba($primary, 0.2)};
     --bg-primary-subtle: rgba(var(--bs-primary-rgb), var(--bs-link-opacity, 0.1));
 
     .bg-primary-subtle {

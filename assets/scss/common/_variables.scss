@@ -33,11 +33,16 @@ $carousel-dark-indicator-active-bg: #fff !default;
 $carousel-dark-caption-color: #fff !default;
 $carousel-dark-control-icon-filter: invert(0) grayscale(100) !default;
 
+$link-color: $primary !default;
+// $link-color: darken($primary, 10%) !default;
+$link-shade-percentage: 15% !default; // Less darkening
+$link-hover-color: lighten($primary, 10%) !default;
+
 // scss-docs-start color-mode
-$primary-text-emphasis-dark: mix(white, $primary, $dark-mode-tint) !default;
+$primary-text-emphasis-dark: lighten($primary, 20%) !default;
 $secondary-text-emphasis-dark: mix(white, $secondary, $dark-mode-tint) !default;
-$link-color-dark: mix(white, $primary, $dark-mode-tint) !default;
-$primary-bg-subtle-dark: mix(black, $primary, $dark-mode-shade) !default;
+$link-color-dark: lighten($primary, 25%) !default;
+$primary-bg-subtle-dark: mix(white, $primary, $dark-mode-shade) !default;
 $primary-border-subtle-dark: mix(black, $primary, $dark-mode-shade / 2) !default;
 // scss-docs-end color-mode
 
