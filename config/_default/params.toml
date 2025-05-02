@@ -92,8 +92,8 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#9c27b0"
-    secondary = "#b39ddb"
+    primary = "#ef476f"
+    secondary = "#669bbc"
     success = "#4caf50"
     info = "#2196f3"
     warning = "#ff9800"
@@ -101,8 +101,8 @@
     light = "#f8f9fa"
     dark = "#212529"
     themeOpacity = "10"
-    darkModeShade = "35%"
-    darkModeTint = "55%"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
     themeFont = "Open Sans"
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
